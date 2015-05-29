@@ -1,2 +1,3 @@
 # git_intro
-Training repo for Git intro workshop
+Training repo for Git intro worksho
+Additional changes
